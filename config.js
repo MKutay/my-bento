@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'kutay',
 	imageBackground: false,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: false,
 
 	// Greetings
