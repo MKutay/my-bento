@@ -139,19 +139,19 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Favs',
+					link: 'https://music.youtube.com/playlist?list=PLhxT-KZBgXzyajaT0UR6cmA3djJTpCHTX',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Celeste',
+					link: 'https://music.youtube.com/playlist?list=PLhxT-KZBgXzxR8xEkfkB96RLLLuVIqCJK',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Hollow Knight',
+					link: 'https://music.youtube.com/playlist?list=PLhxT-KZBgXzz4GBPsL6wW2GgB9jir0yoL',
 				},
 				{
-					name: 'Rock',
+					name: 'Rick',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 			],
@@ -165,16 +165,16 @@ const CONFIG = {
 					link: 'https://web.whatsapp.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Discord',
+					link: 'https://www.discord.com/app',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'iCloud',
+					link: 'https://www.iCloud.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Moodle',
+					link: 'https://www.arionline.ariokullari.k12.tr',
 				},
 			],
 		},
